@@ -1,1 +1,10 @@
-
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/a1.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/a2.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/a3.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/a4.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/a5.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/a6.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/avatar.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/cross-out.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/maps8.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/avatarr.webp
