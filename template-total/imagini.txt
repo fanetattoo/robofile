@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/avatar
 https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/cross-out.webp
 https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/maps8.webp
 https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/avatarr.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/fmf_339.webp
+https://raw.githubusercontent.com/fanetattoo/robofile/main/template-total/slider1.webp
