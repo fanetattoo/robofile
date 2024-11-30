@@ -1,18 +1,18 @@
-﻿1
+1
 00:00:05,440 --> 00:00:09,440
-CELE 12 ZILE DIN AJUNUL CRĂCIUNULUI
+12 ZILE DIN AJUNUL CRĂCIUNULUI
 
 2
 00:00:14,920 --> 00:00:16,160
-{\an8}Pot să încerc şi eu?
+Pot să încerc şi eu?
 
 3
 00:00:18,240 --> 00:00:19,280
-{\an8}Ai grijă, că frige.
+Ai grijă, că frige.
 
 4
 00:00:21,120 --> 00:00:23,720
-{\an8}Acolo. Acolo...
+Acolo. Acolo...
 
 5
 00:00:25,480 --> 00:00:26,480
@@ -20,21 +20,21 @@ Bun.
 
 6
 00:00:32,480 --> 00:00:34,160
-{\an8}Mai încearcă o dată!
+Mai încearcă o dată!
 Nu renunţa!
 
 7
 00:00:35,200 --> 00:00:37,280
-{\an8}Vei avea succes
+Vei avea succes
 doar dacă munceşti din greu.
 
 8
 00:00:37,560 --> 00:00:38,560
-{\an8}That-a-boy.
+That-a-boy.
 
 9
 00:00:40,160 --> 00:00:41,960
-{\an8}Să vedem...
+Să vedem...
 
 10
 00:00:46,600 --> 00:00:49,120
@@ -43,66 +43,66 @@ doar dacă munceşti din greu.
 
 11
 00:00:49,200 --> 00:00:51,440
-{\an8}Trebuie să mergem la dna Martin,
+Trebuie să mergem la dna Martin,
 să-i reparăm cuptorul.
 
 12
 00:00:51,560 --> 00:00:53,360
-{\an8}Dar e Ajunul Crăciunului.
+Dar e Ajunul Crăciunului.
 
 13
 00:00:53,440 --> 00:00:56,280
-{\an8}Tocmai. Mă plăteşte în plus
+Tocmai. Mă plăteşte în plus
 ca să i-l repar azi,
 
 14
 00:00:56,360 --> 00:00:59,000
-{\an8}ca să poată pregăti mâine
+ca să poată pregăti mâine
 cina de Crăciun pentru familia ei.
 
 15
 00:01:00,280 --> 00:01:03,400
-{\an8}De unde crezi că am avut bani
+De unde crezi că am avut bani
 pentru toate cadourile de sub pom?
 
 16
 00:01:04,000 --> 00:01:07,160
-{\an8}Pentru cadouri trebuie să muncim
+Pentru cadouri trebuie să muncim
 şi să facem sacrificii.
 
 17
 00:01:07,360 --> 00:01:09,160
-{\an8}- Ai înţeles?
+- Ai înţeles?
 - Da, să trăiţi!
 
 18
 00:01:10,080 --> 00:01:13,600
-{\an8}Doar că aş fi vrut să nu munceşti
+Doar că aş fi vrut să nu munceşti
 în noaptea de Ajun.
 
 19
 00:01:15,000 --> 00:01:18,040
-{\an8}Fac toate astea ca tu
+Fac toate astea ca tu
 să ai o viaţă mai bună decât mine.
 
 20
 00:01:18,960 --> 00:01:22,200
-{\an8}Într-o bună zi,
+Într-o bună zi,
 o să fii bogat şi o să ai succes.
 
 21
 00:01:23,000 --> 00:01:24,880
-{\an8}Toate dorinţele tale de Crăciun
+Toate dorinţele tale de Crăciun
 se vor îndeplini.
 
 22
 00:01:27,160 --> 00:01:29,720
-{\an8}Hai, Brian!
+Hai, Brian!
 Să ne punem câte o dorinţă!
 
 23
 00:01:33,320 --> 00:01:34,320
-{\an8}Eşti gata?
+Eşti gata?
 
 24
 00:02:01,800 --> 00:02:03,200
@@ -207,7 +207,7 @@ Ce naiba e ăsta?
 
 47
 00:03:28,480 --> 00:03:31,040
-{\an8}- Să nu-mi mai vii cu aşa ceva!
+- Să nu-mi mai vii cu aşa ceva!
 - Am înţeles, mă scuzaţi.
 
 48
@@ -221,12 +221,12 @@ sărbătoarea asta în fiecare an.
 
 50
 00:03:37,680 --> 00:03:40,640
-{\an8}Sau la banii pe care îi veţi strânge
+Sau la banii pe care îi veţi strânge
 pentru spital.
 
 51
 00:03:41,640 --> 00:03:43,760
-{\an8}Plus că vă scuteşte de nişte taxe mari.
+Plus că vă scuteşte de nişte taxe mari.
 
 52
 00:03:44,800 --> 00:03:46,240
@@ -1337,7 +1337,7 @@ E cumva...
 
 298
 00:17:50,480 --> 00:17:54,920
-{\an8}ZIUA A DOUA
+ZIUA A DOUA
 
 299
 00:18:02,800 --> 00:18:04,160
@@ -1542,7 +1542,7 @@ Ajun de Crăciun de când lumea!
 
 344
 00:20:44,000 --> 00:20:48,600
-{\an8}ZIUA A TREIA
+ZIUA A TREIA
 
 345
 00:20:59,000 --> 00:21:01,280
@@ -1736,7 +1736,7 @@ Veniţi la petrecere diseară!
 
 387
 00:23:13,360 --> 00:23:16,680
-{\an8}Uite un triceratops!
+Uite un triceratops!
 Dă-i-l cuiva mai mic decât tine!
 
 388
@@ -1963,16 +1963,16 @@ De asta trebuie să-ţi dai seama singur.
 
 438
 00:26:14,640 --> 00:26:15,760
-{\an8}ZIUA A PATRA
+ZIUA A PATRA
 
 439
 00:26:15,840 --> 00:26:19,320
-{\an8}Cifrele sunt inacceptabile.
+Cifrele sunt inacceptabile.
 Văd că nu aţi găsit soluţii.
 
 440
 00:26:19,400 --> 00:26:23,120
-{\an8}O să vând compania şi sper
+O să vând compania şi sper
 că o să vă dea afară pe toţi.
 
 441
@@ -2300,11 +2300,11 @@ unde vrea să meargă.
 
 512
 00:29:59,160 --> 00:30:02,440
-{\an8}ZIUA A CINCEA
+ZIUA A CINCEA
 
 513
 00:30:02,680 --> 00:30:05,160
-{\an8}Mersi, tată.
+Mersi, tată.
 Sigur o poţi ţine toată ziua?
 
 514
@@ -2428,11 +2428,11 @@ Dar ce are nevoie?
 
 541
 00:32:15,040 --> 00:32:16,120
-{\an8}ZIUA A ŞASEA
+ZIUA A ŞASEA
 
 542
 00:32:16,240 --> 00:32:19,440
-{\an8}Apoi Benjamin a tras un pârţ
+Apoi Benjamin a tras un pârţ
 şi mirosea a peşte mort în toată clasa.
 
 543
@@ -2918,7 +2918,7 @@ Aleg Crăciunul.
 
 652
 00:38:31,280 --> 00:38:35,880
-{\an8}ZIUA A ŞAPTEA
+ZIUA A ŞAPTEA
 
 653
 00:38:40,600 --> 00:38:41,840
@@ -2950,7 +2950,7 @@ mamei tale.
 
 659
 00:38:58,400 --> 00:38:59,440
-{\an8}What does she like?
+What does she like?
 
 660
 00:38:59,920 --> 00:39:02,920
@@ -3576,16 +3576,16 @@ Taci, să nu te aud!
 
 798
 00:47:32,280 --> 00:47:33,480
-{\an8}ZIUA A OPTA
+ZIUA A OPTA
 
 799
 00:47:33,600 --> 00:47:35,880
-{\an8}Dr. Angeloni,
+Dr. Angeloni,
 aş vrea să vă cer o favoare.
 
 800
 00:47:36,160 --> 00:47:37,760
-{\an8}Bicule!
+Bicule!
 
 801
 00:47:38,160 --> 00:47:40,680
@@ -3866,7 +3866,7 @@ Nu mă dau bătut...
 
 862
 00:50:58,960 --> 00:51:03,080
-{\an8}ZIUA A NOUA
+ZIUA A NOUA
 
 863
 00:51:06,200 --> 00:51:07,480
@@ -3889,11 +3889,11 @@ Hai, la treabă!
 
 867
 00:51:25,200 --> 00:51:29,720
-{\an8}ZIUA A ZECEA
+ZIUA A ZECEA
 
 868
 00:51:42,360 --> 00:51:47,120
-{\an8}ZIUA A 11-A
+ZIUA A 11-A
 
 869
 00:51:52,920 --> 00:51:55,840
@@ -4024,11 +4024,11 @@ Dar trebuie să mai ştii ceva...
 
 897
 00:53:36,280 --> 00:53:37,320
-{\an8}ZIUA A 12-A
+ZIUA A 12-A
 
 898
 00:53:37,440 --> 00:53:41,360
-{\an8}Jet, am încredere deplină în tine.
+Jet, am încredere deplină în tine.
 Eşti mâna mea dreaptă.
 
 899
