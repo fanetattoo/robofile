@@ -4,12 +4,12 @@ FAMILIA STEVENSON
 
 2
 00:00:10,594 --> 00:00:13,389
-Niciodatã nu m-am gândit
-cã o sã-mi fie fricã în Margrave.
+NiciodatÄƒ nu m-am gÃ¢ndit
+cÄƒ o sÄƒ-mi fie fricÄƒ Ã®n Margrave.
 
 3
 00:00:13,472 --> 00:00:15,307
-Tot nicio pistã ?
+Tot nicio pistÄƒ ?
 
 4
 00:00:16,350 --> 00:00:17,768
@@ -17,7 +17,7 @@ Nimic folositor.
 
 5
 00:00:18,853 --> 00:00:22,815
-Ni se spune sã investigãm chestii
+Ni se spune sÄƒ investigÄƒm chestii
 care nu mi se par valide.
 
 6
@@ -26,65 +26,65 @@ Ai vorbit cu Finlay despre asta ?
 
 7
 00:00:26,485 --> 00:00:29,488
-Îmi tot închide gura,
-în rarele dãþi când e prin preajmã.
+ÃŽmi tot Ã®nchide gura,
+Ã®n rarele dÄƒÅ£i cÃ¢nd e prin preajmÄƒ.
 
 8
 00:00:29,572 --> 00:00:32,408
-De când Roscoe l-a pocnit pe Teale,
-nu l-am mai vãzut.
+De cÃ¢nd Roscoe l-a pocnit pe Teale,
+nu l-am mai vÄƒzut.
 
 9
 00:00:32,491 --> 00:00:34,660
-Eu ºi Baker suntem
+Eu ÅŸi Baker suntem
 pe cont propriu, oarecum.
 
 10
 00:00:34,744 --> 00:00:38,456
-Am încercat azi iar sã-l sun pe Paul.
-ªi pe Charlie.
+Am Ã®ncercat azi iar sÄƒ-l sun pe Paul.
+Åži pe Charlie.
 
 11
 00:00:41,459 --> 00:00:42,918
-N-o sã rãspundã.
+N-o sÄƒ rÄƒspundÄƒ.
 
 12
 00:00:43,878 --> 00:00:46,839
-Au fugit sau mai rãu.
+Au fugit sau mai rÄƒu.
 
 13
 00:00:48,758 --> 00:00:51,177
-Mã gândesc cã ar trebui sã plecãm.
+MÄƒ gÃ¢ndesc cÄƒ ar trebui sÄƒ plecÄƒm.
 
 14
 00:00:51,260 --> 00:00:54,346
-Chiar ºi dacã rezolvaþi asta,
-acum cã dl Kliner a murit,
+Chiar ÅŸi dacÄƒ rezolvaÅ£i asta,
+acum cÄƒ dl Kliner a murit,
 
 15
 00:00:54,430 --> 00:00:57,975
-mã tem cã oraºul va reveni la cum era
-înainte sã vinã el aici.
+mÄƒ tem cÄƒ oraÅŸul va reveni la cum era
+Ã®nainte sÄƒ vinÄƒ el aici.
 
 16
 00:00:58,642 --> 00:01:00,853
-Alor mei le-ar plãcea
-sã ne primeascã la Tupelo.
+Alor mei le-ar plÄƒcea
+sÄƒ ne primeascÄƒ la Tupelo.
 
 17
 00:01:00,936 --> 00:01:05,524
-ªtiu. ªi în curând o sã avem nevoie
-de îngrijirea gratuitã a copilului.
+Åžtiu. Åži Ã®n curÃ¢nd o sÄƒ avem nevoie
+de Ã®ngrijirea gratuitÄƒ a copilului.
 
 18
 00:01:07,318 --> 00:01:10,446
-- Când putem începe sã dãm vestea ?
-- În curând.
+- CÃ¢nd putem Ã®ncepe sÄƒ dÄƒm vestea ?
+- ÃŽn curÃ¢nd.
 
 19
 00:01:54,949 --> 00:01:58,869
 COPIII MEI AU FOST LA NEW YORK
-ªI M-AM ALES DOAR CU ACEST TRICOU PENIBIL
+ÅžI M-AM ALES DOAR CU ACEST TRICOU PENIBIL
 
 20
 00:01:58,953 --> 00:02:00,079
@@ -96,74 +96,74 @@ Aici ! Salut.
 
 22
 00:02:13,634 --> 00:02:16,095
-Germania. O nouã aventurã, nu ?
+Germania. O nouÄƒ aventurÄƒ, nu ?
 
 23
 00:02:16,178 --> 00:02:18,264
-Asta nu e o aventurã.
+Asta nu e o aventurÄƒ.
 
 24
 00:02:18,347 --> 00:02:22,434
-- E o pedeapsã. Germania e plictisitoare.
+- E o pedeapsÄƒ. Germania e plictisitoare.
 - Va fi altfel de data asta.
 
 25
 00:02:25,020 --> 00:02:27,565
-Ia uite-i pe bãieþii mei !
-Pãreþi atât de derutaþi !
+Ia uite-i pe bÄƒieÅ£ii mei !
+PÄƒreÅ£i atÃ¢t de derutaÅ£i !
 
 26
 00:02:27,648 --> 00:02:31,485
-Vedeþi oameni buni pedepsiþi,
-oamenii rãi care obþin ce vor
+VedeÅ£i oameni buni pedepsiÅ£i,
+oamenii rÄƒi care obÅ£in ce vor
 
 27
 00:02:31,569 --> 00:02:33,070
-ºi nu înþelegeþi de ce.
+ÅŸi nu Ã®nÅ£elegeÅ£i de ce.
 
 28
 00:02:33,153 --> 00:02:37,116
-O sã vã spun ceva
-ce n-o sã aibã prea mult sens acum,
+O sÄƒ vÄƒ spun ceva
+ce n-o sÄƒ aibÄƒ prea mult sens acum,
 
 29
 00:02:37,199 --> 00:02:39,952
-dar sper sã aibã într-o zi,
-când o sã fiþi mai mari.
+dar sper sÄƒ aibÄƒ Ã®ntr-o zi,
+cÃ¢nd o sÄƒ fiÅ£i mai mari.
 
 30
 00:02:40,995 --> 00:02:44,415
-Joe, nu trebuie sã rezolvi
+Joe, nu trebuie sÄƒ rezolvi
 toate problemele lumii.
 
 31
 00:02:44,498 --> 00:02:46,625
-Dacã rezolvi câteva, e suficient.
+DacÄƒ rezolvi cÃ¢teva, e suficient.
 
 32
 00:02:46,709 --> 00:02:51,297
-Iar Reacher, tu eºti puternic
-cât trei bãieþi de vârsta ta.
+Iar Reacher, tu eÅŸti puternic
+cÃ¢t trei bÄƒieÅ£i de vÃ¢rsta ta.
 
 33
 00:02:51,380 --> 00:02:53,507
-Ce-o sã faci cu puterea asta ?
+Ce-o sÄƒ faci cu puterea asta ?
 
 34
 00:02:57,261 --> 00:02:59,471
-O sã faci ce e corect.
+O sÄƒ faci ce e corect.
 
 35
 00:03:30,878 --> 00:03:32,004
-Frumoasã þinutã !
+FrumoasÄƒ Å£inutÄƒ !
 
 36
 00:03:32,087 --> 00:03:34,548
-Celelalte haine aveau sânge pe ele.
+Celelalte haine aveau sÃ¢nge pe ele.
 
 37
 00:03:34,632 --> 00:03:37,676
-O parte era al meu. Cuþit, armã...
+O parte era al meu. CuÅ£it, armÄƒ...
 
 38
 00:03:38,886 --> 00:03:39,887
@@ -172,37 +172,37 @@ Consola din mijloc.
 39
 00:03:48,062 --> 00:03:51,607
 - Ce ai aflat la New York ?
-- Totul þine de hârtie.
+- Totul Å£ine de hÃ¢rtie.
 
 40
 00:03:51,690 --> 00:03:53,901
-Cerneala e uºor de obþinut,
-inscripþiile se fac...
+Cerneala e uÅŸor de obÅ£inut,
+inscripÅ£iile se fac...
 
 41
 00:03:53,984 --> 00:03:56,737
-ªmecheria e sã faci rost
-de hârtia potrivitã pentru bancnote.
+Åžmecheria e sÄƒ faci rost
+de hÃ¢rtia potrivitÄƒ pentru bancnote.
 
 42
 00:03:56,820 --> 00:03:59,281
-- ªi ?
-- Existã un singur loc în þarã
+- Åži ?
+- ExistÄƒ un singur loc Ã®n Å£arÄƒ
 
 43
 00:03:59,365 --> 00:04:03,535
-care fabrica acea hârtie ºi Joe
-îl ferecase ca pe Sing Sing. Doar dacã...
+care fabrica acea hÃ¢rtie ÅŸi Joe
+Ã®l ferecase ca pe Sing Sing. Doar dacÄƒ...
 
 44
 00:04:04,161 --> 00:04:06,789
-- Doar dacã n-a fãcut-o.
+- Doar dacÄƒ n-a fÄƒcut-o.
 - Exact.
 
 45
 00:04:07,915 --> 00:04:11,210
-Putea fi cineva corupt în interior
-de care Joe nu ºtia.
+Putea fi cineva corupt Ã®n interior
+de care Joe nu ÅŸtia.
 
 46
 00:04:11,293 --> 00:04:13,963
@@ -221,107 +221,107 @@ Bine. Altceva ?
 49
 00:04:19,969 --> 00:04:22,429
 Am dat peste un alt tip
-dintre ãia venezueleni.
+dintre Äƒia venezueleni.
 
 50
 00:04:22,513 --> 00:04:24,306
-Ce s-a întâmplat ?
+Ce s-a Ã®ntÃ¢mplat ?
 
 51
 00:04:24,390 --> 00:04:26,225
-Am jucat Spânzurãtoarea.
+Am jucat SpÃ¢nzurÄƒtoarea.
 
 52
 00:04:29,812 --> 00:04:33,023
-Du-mã la service.
-Trebuie sã ridic Bentley-ul.
+Du-mÄƒ la service.
+Trebuie sÄƒ ridic Bentley-ul.
 
 53
 00:04:34,566 --> 00:04:38,946
-Trebuie sã fac un popas întâi.
-O sã-þi doreºti sã stai în maºinã.
+Trebuie sÄƒ fac un popas Ã®ntÃ¢i.
+O sÄƒ-Å£i doreÅŸti sÄƒ stai Ã®n maÅŸinÄƒ.
 
 54
 00:04:42,616 --> 00:04:46,620
 Dl Kliner nu avea
-multe rude de sânge în Margrave,
+multe rude de sÃ¢nge Ã®n Margrave,
 
 55
 00:04:46,704 --> 00:04:48,872
-doar fiul sãu, nepotul...
+doar fiul sÄƒu, nepotul...
 
 56
 00:04:48,956 --> 00:04:52,459
-Dar îmi place sã cred
-cã avea un oraº plin de rude.
+Dar Ã®mi place sÄƒ cred
+cÄƒ avea un oraÅŸ plin de rude.
 
 57
 00:04:52,543 --> 00:04:56,171
-ªtiu cã aºa ne-a acceptat.
+Åžtiu cÄƒ aÅŸa ne-a acceptat.
 
 58
 00:04:56,255 --> 00:05:00,801
-"Dreptul piere ºi nimeni nu ia aminte.
+"Dreptul piere ÅŸi nimeni nu ia aminte.
 
 59
 00:05:01,927 --> 00:05:04,138
-"Se duc oamenii cinstiþi
+"Se duc oamenii cinstiÅ£i
 
 60
 00:05:04,972 --> 00:05:10,853
-"ºi nimãnui nu-i pasã cã din pricina
-rãutãþii a pierit cel drept.
+"ÅŸi nimÄƒnui nu-i pasÄƒ cÄƒ din pricina
+rÄƒutÄƒÅ£ii a pierit cel drept.
 
 61
 00:05:12,813 --> 00:05:16,442
-"El intrã în pace în groapã.
-Cel care umblã pe calea cea dreaptã
+"El intrÄƒ Ã®n pace Ã®n groapÄƒ.
+Cel care umblÄƒ pe calea cea dreaptÄƒ
 
 62
 00:05:19,445 --> 00:05:22,573
-"se odihneºte în sãlaºurile sale."
+"se odihneÅŸte Ã®n sÄƒlaÅŸurile sale."
 
 63
 00:05:56,523 --> 00:06:00,027
-- Ce naiba crezi cã faci ?
-- Îmi aduc omagiile.
+- Ce naiba crezi cÄƒ faci ?
+- ÃŽmi aduc omagiile.
 
 64
 00:06:00,110 --> 00:06:02,654
-Chiar aºa ? ªtii ce cred eu ?
+Chiar aÅŸa ? Åžtii ce cred eu ?
 
 65
 00:06:04,031 --> 00:06:05,616
-Cred cã tu l-ai ucis.
+Cred cÄƒ tu l-ai ucis.
 
 66
 00:06:07,659 --> 00:06:11,288
-Ce-ai zice dacã te-aº spinteca
-aºa cum l-ai spintecat pe el ?
+Ce-ai zice dacÄƒ te-aÅŸ spinteca
+aÅŸa cum l-ai spintecat pe el ?
 
 67
 00:06:15,584 --> 00:06:18,796
-În primul rând,
-nu aduc omagiile unchiului tãu,
+ÃŽn primul rÃ¢nd,
+nu aduc omagiile unchiului tÄƒu,
 
 68
 00:06:18,879 --> 00:06:20,672
-pentru cã nu l-am respectat niciodatã.
+pentru cÄƒ nu l-am respectat niciodatÄƒ.
 
 69
 00:06:21,507 --> 00:06:23,884
-Dar a însemnat mult
-pentru oamenii din acest oraº,
+Dar a Ã®nsemnat mult
+pentru oamenii din acest oraÅŸ,
 
 70
 00:06:23,967 --> 00:06:26,929
-aºa cã aduc omagiile Margrave-ului
-în calitate de detectiv-ºef.
+aÅŸa cÄƒ aduc omagiile Margrave-ului
+Ã®n calitate de detectiv-ÅŸef.
 
 71
 00:06:28,138 --> 00:06:34,103
-În al doilea rând, fã un pas înapoi,
-altfel o sã fie doi Kliner în mormânt.
+ÃŽn al doilea rÃ¢nd, fÄƒ un pas Ã®napoi,
+altfel o sÄƒ fie doi Kliner Ã®n mormÃ¢nt.
 
 72
 00:06:37,231 --> 00:06:38,899
@@ -329,7 +329,7 @@ Ne mai vedem, Finlay.
 
 73
 00:06:56,500 --> 00:06:58,043
-Se pare cã a mers bine.
+Se pare cÄƒ a mers bine.
 
 74
 00:06:58,877 --> 00:06:59,877
@@ -337,25 +337,25 @@ Mai taci.
 
 75
 00:07:02,589 --> 00:07:04,258
-Hai sã luãm maºina.
+Hai sÄƒ luÄƒm maÅŸina.
 
 76
 00:07:10,556 --> 00:07:12,808
-Ai vorbit cu Roscoe în ultima vreme ?
+Ai vorbit cu Roscoe Ã®n ultima vreme ?
 
 77
 00:07:12,891 --> 00:07:15,561
 Nu, dar ar trebui
-sã mã sune Picard mai târziu.
+sÄƒ mÄƒ sune Picard mai tÃ¢rziu.
 
 78
 00:07:27,156 --> 00:07:31,326
-Salutare, omul cu Bentley ! Scuze, ºefu',
-trebuie sã revii mai pe dupã-amiazã.
+Salutare, omul cu Bentley ! Scuze, ÅŸefu',
+trebuie sÄƒ revii mai pe dupÄƒ-amiazÄƒ.
 
 79
 00:07:31,410 --> 00:07:33,954
-Am fãcut doar douã geamuri fumurii.
+Am fÄƒcut doar douÄƒ geamuri fumurii.
 
 80
 00:07:34,037 --> 00:07:34,955
@@ -363,7 +363,7 @@ Ajung.
 
 81
 00:07:35,038 --> 00:07:36,582
-Vrei s-o iei pe jumãtate terminatã ?
+Vrei s-o iei pe jumÄƒtate terminatÄƒ ?
 
 82
 00:07:36,665 --> 00:07:39,501
@@ -372,34 +372,34 @@ de patru geamuri fumurii.
 
 83
 00:07:39,585 --> 00:07:41,003
-Plãtesc preþul întreg.
+PlÄƒtesc preÅ£ul Ã®ntreg.
 
 84
 00:07:45,215 --> 00:07:47,885
-Cum zici tu, ºefu'. O aduc.
+Cum zici tu, ÅŸefu'. O aduc.
 
 85
 00:07:47,968 --> 00:07:50,888
-Tim, pune niºte nisip pentru pisici
-pe uleiul ãla scurs.
+Tim, pune niÅŸte nisip pentru pisici
+pe uleiul Äƒla scurs.
 
 86
 00:07:53,056 --> 00:07:56,268
-Vãd cã eºti mânã-largã
-cu banii contrafãcuþi.
+VÄƒd cÄƒ eÅŸti mÃ¢nÄƒ-largÄƒ
+cu banii contrafÄƒcuÅ£i.
 
 87
 00:07:56,351 --> 00:07:58,103
-Vrei sã-þi cumpãr ceva ?
+Vrei sÄƒ-Å£i cumpÄƒr ceva ?
 
 88
 00:07:58,187 --> 00:08:00,814
-Ce zici de niºte blugi ºi bilete
+Ce zici de niÅŸte blugi ÅŸi bilete
 la un concert Hall & Oats ?
 
 89
 00:08:08,530 --> 00:08:10,282
-Da, sunt cãpitanul Finlay.
+Da, sunt cÄƒpitanul Finlay.
 
 90
 00:08:15,120 --> 00:08:17,206
@@ -411,11 +411,11 @@ Bine, vin acum.
 
 92
 00:08:27,758 --> 00:08:29,176
-Ce se întâmplã ?
+Ce se Ã®ntÃ¢mplÄƒ ?
 
 93
 00:08:43,899 --> 00:08:46,193
-Presupun cã asta ne rãspunde la întrebare.
+Presupun cÄƒ asta ne rÄƒspunde la Ã®ntrebare.
 
 94
 00:08:49,154 --> 00:08:50,656
@@ -423,12 +423,12 @@ La care dintre ele ?
 
 95
 00:08:50,739 --> 00:08:53,367
-Dacã Stevenson era corupt.
+DacÄƒ Stevenson era corupt.
 Sigur a fost implicat
 
 96
 00:08:53,450 --> 00:08:55,661
-dacã a primit acelaºi tratament
+dacÄƒ a primit acelaÅŸi tratament
 ca familia Morrison.
 
 97
@@ -437,17 +437,17 @@ Nu e la fel.
 
 98
 00:08:57,371 --> 00:09:00,374
-Modul în care a fost ucis Morrison
-voia sã transmitã un mesaj.
+Modul Ã®n care a fost ucis Morrison
+voia sÄƒ transmitÄƒ un mesaj.
 
 99
 00:09:01,416 --> 00:09:03,627
 - Asta e altceva.
-- Cum aºa ?
+- Cum aÅŸa ?
 
 100
 00:09:03,710 --> 00:09:06,255
-Mãcar i-au lãsat boaºele la locul lor.
+MÄƒcar i-au lÄƒsat boaÅŸele la locul lor.
 
 101
 00:09:06,755 --> 00:09:09,216
@@ -457,64 +457,64 @@ Mãcar i-au lãsat boaºele la locul lor.
 102
 00:09:09,299 --> 00:09:12,970
 N-au vrut ca Stevenson
-sã intre în stare de ºoc. L-au vrut lucid.
+sÄƒ intre Ã®n stare de ÅŸoc. L-au vrut lucid.
 
 103
 00:09:13,053 --> 00:09:14,972
-Au vrut ca el sã priveascã.
+Au vrut ca el sÄƒ priveascÄƒ.
 
 104
 00:09:15,055 --> 00:09:16,598
-Banda adezivã, oglinzile...
+Banda adezivÄƒ, oglinzile...
 
 105
 00:09:16,682 --> 00:09:19,059
-I-au torturat soþia în faþa lui.
+I-au torturat soÅ£ia Ã®n faÅ£a lui.
 
 106
 00:09:19,142 --> 00:09:22,479
 Nu se putea uita niciunde
-fãrã sã vadã. Doamne !
+fÄƒrÄƒ sÄƒ vadÄƒ. Doamne !
 
 107
 00:09:22,562 --> 00:09:24,648
-A fost vorba de obþinerea informaþiilor.
+A fost vorba de obÅ£inerea informaÅ£iilor.
 
 108
 00:09:25,565 --> 00:09:27,693
-Înseamnã cã Stevenson nu era implicat.
+ÃŽnseamnÄƒ cÄƒ Stevenson nu era implicat.
 
 109
 00:09:28,151 --> 00:09:30,946
-Probabil cã Dawson a gãsit gaura
-din acoperiºul camionului
+Probabil cÄƒ Dawson a gÄƒsit gaura
+din acoperiÅŸul camionului
 
 110
 00:09:31,029 --> 00:09:32,823
-ºi a înþeles cã ne apropiem de adevãr.
+ÅŸi a Ã®nÅ£eles cÄƒ ne apropiem de adevÄƒr.
 
 111
 00:09:32,906 --> 00:09:36,743
-Noi toþi eram absenþi, aºa cã s-au luat
-de urmãtoarea cea mai bunã sursã.
+Noi toÅ£i eram absenÅ£i, aÅŸa cÄƒ s-au luat
+de urmÄƒtoarea cea mai bunÄƒ sursÄƒ.
 
 112
 00:09:36,827 --> 00:09:38,829
-Stevenson ºi Hubble erau rude.
+Stevenson ÅŸi Hubble erau rude.
 
 113
 00:09:38,912 --> 00:09:41,373
-L-au vãzut vorbind cu Roscoe,
+L-au vÄƒzut vorbind cu Roscoe,
 cu tine, cu mine...
 
 114
 00:09:41,456 --> 00:09:45,752
-Noi credeam cã lucreazã cu ei,
-iar ei credeau cã lucreazã cu noi.
+Noi credeam cÄƒ lucreazÄƒ cu ei,
+iar ei credeau cÄƒ lucreazÄƒ cu noi.
 
 115
 00:09:45,836 --> 00:09:49,214
-Dacã l-am fi inclus,
+DacÄƒ l-am fi inclus,
 poate i-am fi putut proteja pe ei doi.
 
 116
@@ -523,7 +523,7 @@ Trei.
 
 117
 00:09:54,011 --> 00:09:56,305
-Finlay, Reacher, o vorbã.
+Finlay, Reacher, o vorbÄƒ.
 
 118
 00:10:11,028 --> 00:10:12,070
@@ -539,97 +539,97 @@ Din ce motiv ?
 
 121
 00:10:17,993 --> 00:10:19,578
-Nu eºti la înãlþimea sarcinii.
+Nu eÅŸti la Ã®nÄƒlÅ£imea sarcinii.
 
 122
 00:10:19,661 --> 00:10:21,663
-Câþi oameni de-ai mei
-sã mai fie mãcelãriþi
+CÃ¢Å£i oameni de-ai mei
+sÄƒ mai fie mÄƒcelÄƒriÅ£i
 
 123
 00:10:21,747 --> 00:10:24,041
-ca sã recunoºti
-cã treaba e prea grea pentru tine ?
+ca sÄƒ recunoÅŸti
+cÄƒ treaba e prea grea pentru tine ?
 
 124
 00:10:24,124 --> 00:10:27,252
-N-ai putut sã opreºti
-nici o fetiþã poliþist care m-a agresat.
+N-ai putut sÄƒ opreÅŸti
+nici o fetiÅ£Äƒ poliÅ£ist care m-a agresat.
 
 125
 00:10:27,336 --> 00:10:29,254
-Acest oraº este strâmb ca scolioza
+Acest oraÅŸ este strÃ¢mb ca scolioza
 
 126
 00:10:29,338 --> 00:10:31,965
-ºi se pune totul în cârca
-poliþistul nou-venit ?
+ÅŸi se pune totul Ã®n cÃ¢rca
+poliÅ£istul nou-venit ?
 
 127
 00:10:32,049 --> 00:10:33,425
-Îþi fac o favoare.
+ÃŽÅ£i fac o favoare.
 
 128
 00:10:33,508 --> 00:10:35,844
-Pleacã înainte sã-þi pãtezi reputaþia
-ºi mai tare,
+PleacÄƒ Ã®nainte sÄƒ-Å£i pÄƒtezi reputaÅ£ia
+ÅŸi mai tare,
 
 129
 00:10:35,927 --> 00:10:38,972
-poate te angajeazã cineva
-ca agent de pazã.
+poate te angajeazÄƒ cineva
+ca agent de pazÄƒ.
 
 130
 00:10:39,056 --> 00:10:41,350
-Întoarce-te la secþie,
-împacheteazã-þi lucrurile
+ÃŽntoarce-te la secÅ£ie,
+Ã®mpacheteazÄƒ-Å£i lucrurile
 
 131
 00:10:41,433 --> 00:10:44,394
-ºi lasã-þi arma ºi insigna pe biroul meu
-înainte sã ieºi.
+ÅŸi lasÄƒ-Å£i arma ÅŸi insigna pe biroul meu
+Ã®nainte sÄƒ ieÅŸi.
 
 132
 00:10:45,187 --> 00:10:47,689
-Iar tu nu eºti poliþist.
+Iar tu nu eÅŸti poliÅ£ist.
 
 133
 00:10:48,482 --> 00:10:51,485
-Ai un minut sã pãrãseºti locul faptei,
+Ai un minut sÄƒ pÄƒrÄƒseÅŸti locul faptei,
 altfel te arestez.
 
 134
 00:10:51,568 --> 00:10:54,905
-Am îngropat un om bun azi
-ºi am vãzut altul eviscerat,
+Am Ã®ngropat un om bun azi
+ÅŸi am vÄƒzut altul eviscerat,
 
 135
 00:10:54,988 --> 00:10:57,366
-ca sã nu mai zic de soþia lui.
-Nu mã pune la încercare.
+ca sÄƒ nu mai zic de soÅ£ia lui.
+Nu mÄƒ pune la Ã®ncercare.
 
 136
 00:10:57,449 --> 00:11:00,243
-Trebuie sã contactez Districtul Warburton,
+Trebuie sÄƒ contactez Districtul Warburton,
 
 137
 00:11:00,327 --> 00:11:02,496
-ca sã-mi trimitã
-niºte poliþiºti adevãraþi.
+ca sÄƒ-mi trimitÄƒ
+niÅŸte poliÅ£iÅŸti adevÄƒraÅ£i.
 
 138
 00:11:06,500 --> 00:11:09,961
-Deci scapã de mine fãrã sã trebuiascã
-sã mai omoare pe cineva.
+Deci scapÄƒ de mine fÄƒrÄƒ sÄƒ trebuiascÄƒ
+sÄƒ mai omoare pe cineva.
 
 139
 00:11:10,045 --> 00:11:12,172
-De acum n-o sã mai avem acces la dovezi.
+De acum n-o sÄƒ mai avem acces la dovezi.
 
 140
 00:11:12,255 --> 00:11:15,509
-Poate obþinem ceva de la Jasper,
-când sosesc rezultatele de laborator.
+Poate obÅ£inem ceva de la Jasper,
+cÃ¢nd sosesc rezultatele de laborator.
 
 141
 00:11:15,592 --> 00:11:16,635
@@ -637,27 +637,27 @@ Hei !
 
 142
 00:11:16,718 --> 00:11:19,513
-Trebuie sã le spun pãrinþilor
-lui Stevenson ce s-a întâmplat.
+Trebuie sÄƒ le spun pÄƒrinÅ£ilor
+lui Stevenson ce s-a Ã®ntÃ¢mplat.
 
 143
 00:11:19,596 --> 00:11:23,100
-N-oi mai fi eu poliþist,
-dar era în subordinea mea.
+N-oi mai fi eu poliÅ£ist,
+dar era Ã®n subordinea mea.
 
 144
 00:11:23,183 --> 00:11:25,018
-Mãcar atât pot sã fac,
-sã-i privesc în ochi
+MÄƒcar atÃ¢t pot sÄƒ fac,
+sÄƒ-i privesc Ã®n ochi
 
 145
 00:11:25,102 --> 00:11:28,188
-ºi sã le spun
-cã ºi-au pierdut fiul ºi nora.
+ÅŸi sÄƒ le spun
+cÄƒ ÅŸi-au pierdut fiul ÅŸi nora.
 
 146
 00:11:28,271 --> 00:11:29,523
-ªi nepotul.
+Åži nepotul.
 
 147
 00:11:31,024 --> 00:11:32,024
@@ -665,78 +665,78 @@ Da.
 
 148
 00:11:32,901 --> 00:11:36,029
-ªtiu cã eºti furios. ªi eu sunt.
+Åžtiu cÄƒ eÅŸti furios. Åži eu sunt.
 
 149
 00:11:36,947 --> 00:11:39,241
 Dar nu face nicio nebunie
-cât timp sunt plecat.
+cÃ¢t timp sunt plecat.
 
 150
 00:11:39,324 --> 00:11:42,202
-Respectã planul.
-Du-te sã vezi ce gãseºti acasã la Hubble.
+RespectÄƒ planul.
+Du-te sÄƒ vezi ce gÄƒseÅŸti acasÄƒ la Hubble.
 
 151
 00:11:43,120 --> 00:11:44,037
-Aºa o sã fac.
+AÅŸa o sÄƒ fac.
 
 152
 00:11:44,121 --> 00:11:47,165
-Dar întâi o sã-l invit la prânz
-pe ultimul poliþist din Margrave.
+Dar Ã®ntÃ¢i o sÄƒ-l invit la prÃ¢nz
+pe ultimul poliÅ£ist din Margrave.
 
 153
 00:11:56,550 --> 00:11:58,176
-De-abia te-ai atins de mâncare.
+De-abia te-ai atins de mÃ¢ncare.
 
 154
 00:11:59,136 --> 00:12:00,804
-Nu prea am poftã de mâncare.
+Nu prea am poftÄƒ de mÃ¢ncare.
 
 155
 00:12:01,638 --> 00:12:03,682
-Nu eºti supãrat din cauza lui Stevenson ?
+Nu eÅŸti supÄƒrat din cauza lui Stevenson ?
 
 156
 00:12:05,058 --> 00:12:07,477
-Ce întrebare mai e ºi asta ?
+Ce Ã®ntrebare mai e ÅŸi asta ?
 
 157
 00:12:08,854 --> 00:12:11,523
-Îl cunoºteam pe puºti de când livra ziare.
+ÃŽl cunoÅŸteam pe puÅŸti de cÃ¢nd livra ziare.
 
 158
 00:12:12,566 --> 00:12:15,944
-Mãtuºa mea a fost profesoara de cor
-a soþiei lui, doar cã...
+MÄƒtuÅŸa mea a fost profesoara de cor
+a soÅ£iei lui, doar cÄƒ...
 
 159
 00:12:16,820 --> 00:12:17,821
-Doar cã ce ?
+Doar cÄƒ ce ?
 
 160
 00:12:19,656 --> 00:12:22,242
-Nu le foloseºte la nimic
-dacã plâng din cauza asta.
+Nu le foloseÅŸte la nimic
+dacÄƒ plÃ¢ng din cauza asta.
 
 161
 00:12:22,868 --> 00:12:27,038
-Îi cinsteºti dacã afli cine a fãcut-o
-ºi îi cãsãpeºti.
+ÃŽi cinsteÅŸti dacÄƒ afli cine a fÄƒcut-o
+ÅŸi Ã®i cÄƒsÄƒpeÅŸti.
 
 162
 00:12:29,332 --> 00:12:33,170
-Crezi cã ºi Stevenson ºi-a fãcut duºman
-pe cineva bãgat la închisoare ?
+Crezi cÄƒ ÅŸi Stevenson ÅŸi-a fÄƒcut duÅŸman
+pe cineva bÄƒgat la Ã®nchisoare ?
 
 163
 00:12:33,253 --> 00:12:35,422
-Aºa cum crede Teale cã a fãcut Morrison ?
+AÅŸa cum crede Teale cÄƒ a fÄƒcut Morrison ?
 
 164
 00:12:36,798 --> 00:12:38,133
-Se pare cã tu nu crezi asta.
+Se pare cÄƒ tu nu crezi asta.
 
 165
 00:12:38,216 --> 00:12:39,926
@@ -744,12 +744,12 @@ Teoria lui Teale e o prostie.
 
 166
 00:12:41,136 --> 00:12:43,555
-- Vrei sã þi-o pun la pachet ?
+- Vrei sÄƒ Å£i-o pun la pachet ?
 - Te rog.
 
 167
 00:12:43,638 --> 00:12:45,265
-Plãcintã cu piersici, dragã.
+PlÄƒcintÄƒ cu piersici, dragÄƒ.
 
 168
 00:12:45,348 --> 00:12:46,683
@@ -758,134 +758,134 @@ Dar tu, dragule ?
 169
 00:12:46,766 --> 00:12:48,643
 - Presupun...
-- Orice în afarã de plãcintã.
+- Orice Ã®n afarÄƒ de plÄƒcintÄƒ.
 
 170
 00:12:48,727 --> 00:12:51,313
-Ofiþerul Baker tocmai a comandat
-ultima bucatã.
+OfiÅ£erul Baker tocmai a comandat
+ultima bucatÄƒ.
 
 171
 00:12:51,396 --> 00:12:53,398
-Dacã amâni, pierzi, Reacher.
+DacÄƒ amÃ¢ni, pierzi, Reacher.
 
 172
 00:12:53,482 --> 00:12:55,984
-Aici gãseºti cea mai bunã
-plãcintã cu piersici din stat.
+Aici gÄƒseÅŸti cea mai bunÄƒ
+plÄƒcintÄƒ cu piersici din stat.
 
 173
 00:12:56,067 --> 00:12:57,694
-Aºa se spune.
+AÅŸa se spune.
 
 174
 00:12:57,777 --> 00:12:59,696
-Nimic pentru mine, mulþumesc.
+Nimic pentru mine, mulÅ£umesc.
 
 175
 00:13:00,739 --> 00:13:02,908
-Dacã nu crezi cã Teale are dreptate,
+DacÄƒ nu crezi cÄƒ Teale are dreptate,
 
 176
 00:13:02,991 --> 00:13:05,827
-cine crezi cã-i ucide
-pe toþi oamenii ãºtia ?
+cine crezi cÄƒ-i ucide
+pe toÅ£i oamenii ÄƒÅŸtia ?
 
 177
 00:13:05,911 --> 00:13:09,164
-- De ce îmi spui mie ?
-- Încep cu a doua întrebare.
+- De ce Ã®mi spui mie ?
+- ÃŽncep cu a doua Ã®ntrebare.
 
 178
 00:13:12,918 --> 00:13:15,212
-Cred cã eºti singurul
-om de încredere din Margrave.
+Cred cÄƒ eÅŸti singurul
+om de Ã®ncredere din Margrave.
 
 179
 00:13:15,295 --> 00:13:18,215
-Ai nimerit-o. Ce te face sã spui asta ?
+Ai nimerit-o. Ce te face sÄƒ spui asta ?
 
 180
 00:13:18,298 --> 00:13:22,552
-Morrison, Kliner ºi Stevenson
-au fost uciºi în feluri spectaculoase.
+Morrison, Kliner ÅŸi Stevenson
+au fost uciÅŸi Ã®n feluri spectaculoase.
 
 181
 00:13:22,636 --> 00:13:26,640
-Cineva încerca sã trimitã un mesaj:
-asta se întâmplã când o dai în barã.
+Cineva Ã®ncerca sÄƒ trimitÄƒ un mesaj:
+asta se Ã®ntÃ¢mplÄƒ cÃ¢nd o dai Ã®n barÄƒ.
 
 182
 00:13:26,723 --> 00:13:28,934
-S-au dus ºi la Roscoe.
+S-au dus ÅŸi la Roscoe.
 
 183
 00:13:29,017 --> 00:13:33,104
-Dar ºtii la cine nu s-au dus ?
+Dar ÅŸtii la cine nu s-au dus ?
 Nu s-au dus la tine.
 
 184
 00:13:33,188 --> 00:13:35,148
-Înseamnã cã nu eºti implicat.
+ÃŽnseamnÄƒ cÄƒ nu eÅŸti implicat.
 
 185
 00:13:36,233 --> 00:13:37,817
-Poate cã tu eºti.
+Poate cÄƒ tu eÅŸti.
 
 186
 00:13:37,901 --> 00:13:41,071
-Toate astea au început sã se întâmple
-când ai apãrut tu, nu ?
+Toate astea au Ã®nceput sÄƒ se Ã®ntÃ¢mple
+cÃ¢nd ai apÄƒrut tu, nu ?
 
 187
 00:13:41,154 --> 00:13:42,906
-De ce-aº avea încredere în tine ?
+De ce-aÅŸ avea Ã®ncredere Ã®n tine ?
 
 188
 00:13:42,989 --> 00:13:45,367
-Asta ne duce la prima ta întrebare.
+Asta ne duce la prima ta Ã®ntrebare.
 
 189
 00:13:45,450 --> 00:13:49,829
-Cine-i ucide pe toþi oamenii ãºtia ?
-Eram la Memphis când a fost ucis Kliner,
+Cine-i ucide pe toÅ£i oamenii ÄƒÅŸtia ?
+Eram la Memphis cÃ¢nd a fost ucis Kliner,
 
 190
 00:13:49,913 --> 00:13:53,458
-la New York când i-au ucis pe Stevenson,
-în Alabama când s-au dus la Roscoe
+la New York cÃ¢nd i-au ucis pe Stevenson,
+Ã®n Alabama cÃ¢nd s-au dus la Roscoe
 
 191
 00:13:53,542 --> 00:13:55,669
-ºi în Florida când au murit Jobling
-ºi fratele meu.
+ÅŸi Ã®n Florida cÃ¢nd au murit Jobling
+ÅŸi fratele meu.
 
 192
 00:13:55,752 --> 00:13:58,380
 Firmele de autobuze
-ºi aeroporturile pot confirma.
+ÅŸi aeroporturile pot confirma.
 
 193
 00:13:58,463 --> 00:14:01,299
-Alibiul meu e solid. Poþi verifica singur.
+Alibiul meu e solid. PoÅ£i verifica singur.
 
 194
 00:14:03,009 --> 00:14:06,721
-Am fãcut-o deja.
-Nu-i scap din ochi pe strãini.
+Am fÄƒcut-o deja.
+Nu-i scap din ochi pe strÄƒini.
 
 195
 00:14:07,764 --> 00:14:08,764
-Chiar aºa ?
+Chiar aÅŸa ?
 
 196
 00:14:09,933 --> 00:14:13,311
-Pentru cã amândoi ºtim
-cã nu sunt singurul strãin din Margrave.
+Pentru cÄƒ amÃ¢ndoi ÅŸtim
+cÄƒ nu sunt singurul strÄƒin din Margrave.
 
 197
 00:14:16,606 --> 00:14:18,608
-Vorbeºti despre amicul tãu, Finlay.
+VorbeÅŸti despre amicul tÄƒu, Finlay.
 
 198
 00:14:19,234 --> 00:14:20,777
@@ -893,32 +893,32 @@ Nu e amicul meu.
 
 199
 00:14:21,778 --> 00:14:24,489
-Mã folosesc de el
-ca sã aflu cine l-a ucis pe Joe.
+MÄƒ folosesc de el
+ca sÄƒ aflu cine l-a ucis pe Joe.
 
 200
 00:14:25,073 --> 00:14:28,952
-Dar am început sã mã gândesc...
-Toatã chestia e despre poliþiºti corupþi,
+Dar am Ã®nceput sÄƒ mÄƒ gÃ¢ndesc...
+ToatÄƒ chestia e despre poliÅ£iÅŸti corupÅ£i,
 
 201
 00:14:29,035 --> 00:14:32,872
-iar tu eºti curat. Teale a devenit ºef
-abia dupã ce au început crimele.
+iar tu eÅŸti curat. Teale a devenit ÅŸef
+abia dupÄƒ ce au Ã®nceput crimele.
 
 202
 00:14:32,956 --> 00:14:34,499
-A mai rãmas doar Finlay.
+A mai rÄƒmas doar Finlay.
 
 203
 00:14:34,583 --> 00:14:37,419
-El era în Margrave
-când s-au petrecut toate crimele.
+El era Ã®n Margrave
+cÃ¢nd s-au petrecut toate crimele.
 
 204
 00:14:37,502 --> 00:14:41,172
-Parcã de fiecare datã când plec din oraº
-ºi rãmâne singur, mai moare cineva.
+ParcÄƒ de fiecare datÄƒ cÃ¢nd plec din oraÅŸ
+ÅŸi rÄƒmÃ¢ne singur, mai moare cineva.
 
 205
 00:14:43,717 --> 00:14:45,343
@@ -926,62 +926,62 @@ Haide, Baker.
 
 206
 00:14:45,427 --> 00:14:49,431
-Din clipa-n care a pus piciorul în secþie,
-am simþit ura dintre voi.
+Din clipa-n care a pus piciorul Ã®n secÅ£ie,
+am simÅ£it ura dintre voi.
 
 207
 00:14:49,514 --> 00:14:52,100
-Ceva nu e-n regulã la Finlay.
-Tu ai înþeles de la început.
+Ceva nu e-n regulÄƒ la Finlay.
+Tu ai Ã®nÅ£eles de la Ã®nceput.
 
 208
 00:14:55,270 --> 00:14:56,646
-Ba bine cã nu.
+Ba bine cÄƒ nu.
 
 209
 00:14:57,731 --> 00:15:01,776
-O pungã de luat acasã, o felie de rai.
+O pungÄƒ de luat acasÄƒ, o felie de rai.
 
 210
 00:15:02,861 --> 00:15:06,197
-- Dacã mai doriþi ceva, sã-mi spuneþi.
+- DacÄƒ mai doriÅ£i ceva, sÄƒ-mi spuneÅ£i.
 - Mersi.
 
 211
 00:15:07,157 --> 00:15:09,826
-Finlay e vinovatul ºi o s-o dovedesc.
+Finlay e vinovatul ÅŸi o s-o dovedesc.
 
 212
 00:15:09,909 --> 00:15:13,788
-Gândeºte-te: gãseºte numãrul de telefon
-al lui Hubble în pantoful fratelui meu,
+GÃ¢ndeÅŸte-te: gÄƒseÅŸte numÄƒrul de telefon
+al lui Hubble Ã®n pantoful fratelui meu,
 
 213
 00:15:13,872 --> 00:15:16,499
-apoi, brusc, Hubble intrã în panicã
-ºi mãrturiseºte crima ?
+apoi, brusc, Hubble intrÄƒ Ã®n panicÄƒ
+ÅŸi mÄƒrturiseÅŸte crima ?
 
 214
 00:15:16,583 --> 00:15:18,251
-Mi se pare o vrãjealã.
+Mi se pare o vrÄƒjealÄƒ.
 
 215
 00:15:20,128 --> 00:15:24,007
 Sigur Finlay avea un motiv ca Hubble
-sã preia vina pentru uciderea lui Joe.
+sÄƒ preia vina pentru uciderea lui Joe.
 
 216
 00:15:24,090 --> 00:15:26,593
-Disearã intru în casa lui Hubble
+DisearÄƒ intru Ã®n casa lui Hubble
 
 217
 00:15:27,677 --> 00:15:30,305
-ºi o sã rãscolesc tot,
+ÅŸi o sÄƒ rÄƒscolesc tot,
 
 218
 00:15:30,388 --> 00:15:34,184
-pânã gãsesc ceva care îl leagã
-în mod direct pe Hubble de Finlay.
+pÃ¢nÄƒ gÄƒsesc ceva care Ã®l leagÄƒ
+Ã®n mod direct pe Hubble de Finlay.
 
 219
 00:15:36,019 --> 00:15:37,020
@@ -989,15 +989,15 @@ Bine.
 
 220
 00:15:38,313 --> 00:15:41,816
-Dacã gãseºti ceva, vino direct la mine.
+DacÄƒ gÄƒseÅŸti ceva, vino direct la mine.
 
 221
 00:15:41,900 --> 00:15:43,360
-La fel ºi tu.
+La fel ÅŸi tu.
 
 222
 00:15:44,027 --> 00:15:45,403
-ªtii unde mã gãseºti.
+Åžtii unde mÄƒ gÄƒseÅŸti.
 
 223
 00:15:46,738 --> 00:15:47,864
@@ -1005,7 +1005,7 @@ Categoric.
 
 224
 00:16:30,782 --> 00:16:31,783
-Te duci la vânãtoare ?
+Te duci la vÃ¢nÄƒtoare ?
 
 225
 00:16:32,659 --> 00:16:34,869
@@ -1014,17 +1014,17 @@ Te duci la vânãtoare ?
 
 226
 00:16:34,953 --> 00:16:38,581
-- Azi sosesc noile chemãtoare de cerbi.
-- Nu vânez cerbi.
+- Azi sosesc noile chemÄƒtoare de cerbi.
+- Nu vÃ¢nez cerbi.
 
 227
 00:16:40,250 --> 00:16:42,168
-Dã-mi un baston din ãla.
+DÄƒ-mi un baston din Äƒla.
 
 228
 00:17:45,523 --> 00:17:47,168
-ATENÞIONÃRI ªI AVERTISMENTE
-ATENÞIONARE DE FURTUNÃ PUTERNICÃ
+ATENÅ¢IONÄ‚RI ÅžI AVERTISMENTE
+ATENÅ¢IONARE DE FURTUNÄ‚ PUTERNICÄ‚
 
 229
 00:17:47,192 --> 00:17:48,735
@@ -1032,21 +1032,21 @@ ATENÞIONARE DE FURTUNÃ PUTERNICÃ
 
 230
 00:17:48,818 --> 00:17:52,030
-Deºi anul acesta
-a fost destul de liniºtit pânã acum,
+DeÅŸi anul acesta
+a fost destul de liniÅŸtit pÃ¢nÄƒ acum,
 
 231
 00:17:52,113 --> 00:17:54,115
-s-ar putea ca asta sã se schimbe acum.
+s-ar putea ca asta sÄƒ se schimbe acum.
 
 232
 00:17:54,199 --> 00:17:58,161
-Avioanele Hurricane Hunter zboarã
-în douã misiuni astãzi...
+Avioanele Hurricane Hunter zboarÄƒ
+Ã®n douÄƒ misiuni astÄƒzi...
 
 233
 00:19:36,593 --> 00:19:40,346
-Dle ºi dnã Stevenson, sunt Oscar Finlay.
+Dle ÅŸi dnÄƒ Stevenson, sunt Oscar Finlay.
 
 234
 00:19:41,514 --> 00:19:43,016
@@ -1054,42 +1054,42 @@ Am lucrat cu fiul dv.
 
 235
 00:20:35,735 --> 00:20:40,239
-Avem ºi avertismente de inundaþii
+Avem ÅŸi avertismente de inundaÅ£ii
 emise acum pentru LaGrange, Carrollton,
 
 236
 00:20:40,323 --> 00:20:44,285
 Manchester, Margrave, Peachtree City,
-Woodland, Greenville ºi Zebulon.
+Woodland, Greenville ÅŸi Zebulon.
 
 237
 00:20:44,369 --> 00:20:46,829
-Zona mai întinsã Macon
-este încã sub supraveghere,
+Zona mai Ã®ntinsÄƒ Macon
+este Ã®ncÄƒ sub supraveghere,
 
 238
 00:20:46,913 --> 00:20:51,459
 dar asta s-ar putea schimba imediat
-ce ploaia se va înteþi.
+ce ploaia se va Ã®nteÅ£i.
 
 239
 00:21:20,655 --> 00:21:22,198
-...pãrþi ale zonei metropolitane.
+...pÄƒrÅ£i ale zonei metropolitane.
 
 240
 00:21:22,281 --> 00:21:26,160
 Primim rapoarte despre unele
-localitãþi joase care se inundã.
+localitÄƒÅ£i joase care se inundÄƒ.
 
 241
 00:21:26,244 --> 00:21:29,038
-Þineþi cont de asta,
-mai ales în întuneric.
+Å¢ineÅ£i cont de asta,
+mai ales Ã®n Ã®ntuneric.
 
 242
 00:21:29,122 --> 00:21:34,002
-E greu de spus cât de adâncã este
-acumularea de apã ºi apa care curge...
+E greu de spus cÃ¢t de adÃ¢ncÄƒ este
+acumularea de apÄƒ ÅŸi apa care curge...
 
 243
 00:21:58,192 --> 00:22:03,031
@@ -1098,42 +1098,42 @@ a trimis acest clip cu subsolul inundat.
 
 244
 00:22:03,114 --> 00:22:05,783
-Spune cã pompa de evacuare nu face faþã...
+Spune cÄƒ pompa de evacuare nu face faÅ£Äƒ...
 
 245
 00:22:54,707 --> 00:22:56,501
-Du-te sã vezi ce vrea.
+Du-te sÄƒ vezi ce vrea.
 
 246
 00:23:21,192 --> 00:23:24,278
-Rãmâneþi în casã.
+RÄƒmÃ¢neÅ£i Ã®n casÄƒ.
 Fulgerele sunt periculoase.
 
 247
 00:23:24,362 --> 00:23:28,741
-Adãposturile sigure sunt casele,
-magazinele ºi vehiculele solide,
+AdÄƒposturile sigure sunt casele,
+magazinele ÅŸi vehiculele solide,
 
 248
 00:23:28,825 --> 00:23:30,868
-câtã vreme geamurile sunt închise.
+cÃ¢tÄƒ vreme geamurile sunt Ã®nchise.
 
 249
 00:23:30,952 --> 00:23:33,496
-Dacã vã aflaþi afarã,
+DacÄƒ vÄƒ aflaÅ£i afarÄƒ,
 
 250
 00:23:33,579 --> 00:23:37,625
-staþi departe de zonele ridicate,
-nu vã adãpostiþi sub un copac izolat...
+staÅ£i departe de zonele ridicate,
+nu vÄƒ adÄƒpostiÅ£i sub un copac izolat...
 
 251
 00:23:57,228 --> 00:23:59,105
-Avem avertismente de inundaþii
+Avem avertismente de inundaÅ£ii
 
 252
 00:23:59,188 --> 00:24:02,275
-ºi pentru La Grange, Douglasville,
+ÅŸi pentru La Grange, Douglasville,
 Carrollton, Manchester,
 
 253
@@ -1147,12 +1147,12 @@ Junction City, Union, Weston, Hamilton,
 
 255
 00:24:08,364 --> 00:24:12,535
-Orchard Hill, Greenville ºi Zebulon,
-precum ºi zona mai extinsã Macon.
+Orchard Hill, Greenville ÅŸi Zebulon,
+precum ÅŸi zona mai extinsÄƒ Macon.
 
 256
 00:24:12,618 --> 00:24:16,455
-Acum adãugãm pe listã mai multe localitãþi
+Acum adÄƒugÄƒm pe listÄƒ mai multe localitÄƒÅ£i
 la est de autostrada I-75.
 
 257
@@ -1170,7 +1170,7 @@ Mi-am dat seama.
 
 260
 00:28:24,578 --> 00:28:27,248
-ªtiu cum îºi fabricã banii.
+Åžtiu cum Ã®ÅŸi fabricÄƒ banii.
 
 261
 00:28:27,331 --> 00:28:28,999
@@ -1179,30 +1179,30 @@ Ce ? Cum ?
 262
 00:28:29,083 --> 00:28:32,294
 Profesoara de la Columbia
-a spus cã totul se rezumã la hârtie.
+a spus cÄƒ totul se rezumÄƒ la hÃ¢rtie.
 
 263
 00:28:32,378 --> 00:28:35,798
-Joe nu ºi-a putut da seama
-cum fãceau rost de hârtie.
+Joe nu ÅŸi-a putut da seama
+cum fÄƒceau rost de hÃ¢rtie.
 
 264
 00:28:35,881 --> 00:28:39,051
-Am cãlãtorit peste tot,
+Am cÄƒlÄƒtorit peste tot,
 am avut de-a face cu tot felul de bani.
 
 265
 00:28:39,135 --> 00:28:41,887
-ªtii ce au deosebit bancnotele americane ?
+Åžtii ce au deosebit bancnotele americane ?
 
 266
 00:28:41,971 --> 00:28:43,764
-Toþi dolarii sunt de aceeaºi mãrime.
+ToÅ£i dolarii sunt de aceeaÅŸi mÄƒrime.
 
 267
 00:28:43,848 --> 00:28:47,601
-Dacã decolorezi cerneala de pe o bancnotã
-de un dolar, ai hârtie de retipãrit
+DacÄƒ decolorezi cerneala de pe o bancnotÄƒ
+de un dolar, ai hÃ¢rtie de retipÄƒrit
 
 268
 00:28:47,685 --> 00:28:49,311
@@ -1214,37 +1214,37 @@ Hubble era un manager valutar priceput.
 
 270
 00:28:51,439 --> 00:28:54,191
-Îl umplea pe Kliner
+ÃŽl umplea pe Kliner
 cu bancnote de un dolar
 
 271
 00:28:54,275 --> 00:28:57,111
 din industriile cu mult numerar
-care vor sã-ºi ascundã venitul.
+care vor sÄƒ-ÅŸi ascundÄƒ venitul.
 
 272
 00:28:57,194 --> 00:29:01,657
-Firme de împrumuturi scurte, cazinouri,
-magazine din cartierele de imigranþi.
+Firme de Ã®mprumuturi scurte, cazinouri,
+magazine din cartierele de imigranÅ£i.
 
 273
 00:29:01,740 --> 00:29:05,453
 Bancnotele de un dolar erau trimise
-în Margrave de peste tot.
+Ã®n Margrave de peste tot.
 
 274
 00:29:05,536 --> 00:29:09,582
-Dacã lipseºte chiar ºi un dolar,
-îþi tai mâna ca-n Arabia Sauditã.
+DacÄƒ lipseÅŸte chiar ÅŸi un dolar,
+Ã®Å£i tai mÃ¢na ca-n Arabia SauditÄƒ.
 
 275
 00:29:09,665 --> 00:29:12,918
-Chimiºtii lui Kliner trebuie sã fi aplicat
+ChimiÅŸtii lui Kliner trebuie sÄƒ fi aplicat
 ceva care decolora cerneala
 
 276
 00:29:13,002 --> 00:29:14,587
-fãrã a afecta hârtia.
+fÄƒrÄƒ a afecta hÃ¢rtia.
 
 277
 00:29:14,670 --> 00:29:18,090
@@ -1257,85 +1257,85 @@ Uciderea unui agent de mediu are sens.
 
 279
 00:29:20,342 --> 00:29:23,512
-Protejarea unei operaþiuni
-de contrafacere justificã uciderea.
+Protejarea unei operaÅ£iuni
+de contrafacere justificÄƒ uciderea.
 
 280
 00:29:23,596 --> 00:29:26,474
-Kliner a protejat-o într-un alt fel.
+Kliner a protejat-o Ã®ntr-un alt fel.
 Cu ajutorul furajului.
 
 281
 00:29:27,641 --> 00:29:29,143
-Îþi baþi joc de mine.
+ÃŽÅ£i baÅ£i joc de mine.
 
 282
 00:29:29,226 --> 00:29:32,396
-ªtii de ce lumea foloseºte nisip de pisici
+Åžtii de ce lumea foloseÅŸte nisip de pisici
 pentru scurgerile de ulei ?
 
 283
 00:29:32,480 --> 00:29:34,398
-Fiindcã conþine diatomit.
+FiindcÄƒ conÅ£ine diatomit.
 
 284
 00:29:34,482 --> 00:29:39,195
 E un agent absorbant de coagulare
-folosit în pesticide, filtre de piscine...
+folosit Ã®n pesticide, filtre de piscine...
 
 285
 00:29:39,278 --> 00:29:41,739
-- ªi în furaj.
+- Åži Ã®n furaj.
 - Exact.
 
 286
 00:29:41,822 --> 00:29:45,117
-Dacã comanzi cantitãþi uriaºe
-de diatomit, trezeºti suspiciuni.
+DacÄƒ comanzi cantitÄƒÅ£i uriaÅŸe
+de diatomit, trezeÅŸti suspiciuni.
 
 287
 00:29:45,201 --> 00:29:48,245
-Dar dacã cumperi furaj când ai vaci,
-nimeni nu verificã.
+Dar dacÄƒ cumperi furaj cÃ¢nd ai vaci,
+nimeni nu verificÄƒ.
 
 288
 00:29:48,329 --> 00:29:52,291
-Îl macini ca sã iasã un agent de curãþare
-eficient pentru deºeurile tale chimice.
+ÃŽl macini ca sÄƒ iasÄƒ un agent de curÄƒÅ£are
+eficient pentru deÅŸeurile tale chimice.
 
 289
 00:29:52,374 --> 00:29:55,294
-ªi fiindcã deversarea în râu
-era sã te dea de gol data trecutã...
+Åži fiindcÄƒ deversarea Ã®n rÃ¢u
+era sÄƒ te dea de gol data trecutÄƒ...
 
 290
 00:29:55,377 --> 00:29:58,589
-Îl îngropi sub o pãºune cu destule vaci
-cât sã ai credibilitate,
+ÃŽl Ã®ngropi sub o pÄƒÅŸune cu destule vaci
+cÃ¢t sÄƒ ai credibilitate,
 
 291
 00:29:58,672 --> 00:30:00,966
 dar nu destule
-cât sã vinã inspectorii statali.
+cÃ¢t sÄƒ vinÄƒ inspectorii statali.
 
 292
 00:30:01,050 --> 00:30:04,762
-Cumpãra camioane întregi.
-Operaþiunea trebuie sã fie uriaºã !
+CumpÄƒra camioane Ã®ntregi.
+OperaÅ£iunea trebuie sÄƒ fie uriaÅŸÄƒ !
 
 293
 00:30:04,845 --> 00:30:09,642
 Avea vreo 12 oameni care lucrau pentru el,
-controlaþi cu bani ºi ameninþãri.
+controlaÅ£i cu bani ÅŸi ameninÅ£Äƒri.
 
 294
 00:30:09,725 --> 00:30:12,811
-Dupã ce spãlau bancnotele,
-le uscau, le tipãreau...
+DupÄƒ ce spÄƒlau bancnotele,
+le uscau, le tipÄƒreau...
 
 295
 00:30:12,895 --> 00:30:15,231
-O parte, apoi cealaltã.
+O parte, apoi cealaltÄƒ.
 
 296
 00:30:15,940 --> 00:30:18,984
@@ -1344,93 +1344,93 @@ a sutelor, dinaintea anilor 1990,
 
 297
 00:30:19,068 --> 00:30:22,947
-ca sã nu facã banda magneticã de
-securitate folositã la bancnotele de azi.
+ca sÄƒ nu facÄƒ banda magneticÄƒ de
+securitate folositÄƒ la bancnotele de azi.
 
 298
 00:30:23,030 --> 00:30:27,618
-Noile sute sunt fãcute sã parã vechi,
-aºa cã nimeni nu se uitã de douã ori.
+Noile sute sunt fÄƒcute sÄƒ parÄƒ vechi,
+aÅŸa cÄƒ nimeni nu se uitÄƒ de douÄƒ ori.
 
 299
 00:30:27,701 --> 00:30:30,496
-Camionagii transportã apoi banii
-în Florida,
+Camionagii transportÄƒ apoi banii
+Ã®n Florida,
 
 300
 00:30:30,579 --> 00:30:33,415
-de un pornesc în ultima cãlãtorie
-peste mãri, în Venezuela.
+de un pornesc Ã®n ultima cÄƒlÄƒtorie
+peste mÄƒri, Ã®n Venezuela.
 
 301
 00:30:33,499 --> 00:30:37,503
-E doar o teorie. Ca sã mergem cu aºa ceva
+E doar o teorie. Ca sÄƒ mergem cu aÅŸa ceva
 la FBI, avem nevoie de dovezi solide.
 
 302
 00:30:37,586 --> 00:30:40,548
-Mai mult decât sutele alea
+Mai mult decÃ¢t sutele alea
 din buzunarele tale.
 
 303
 00:30:40,631 --> 00:30:44,718
-Ne trebuie bani falºi
-care sã conducã la compania lui Kliner.
+Ne trebuie bani falÅŸi
+care sÄƒ conducÄƒ la compania lui Kliner.
 
 304
 00:30:44,802 --> 00:30:48,055
-Joe a pus pe listã
+Joe a pus pe listÄƒ
 garajul lui Jobling dintr-un motiv.
 
 305
 00:30:48,138 --> 00:30:50,849
 Poate avea o parte din bani
-ascunºi în casã.
+ascunÅŸi Ã®n casÄƒ.
 
 306
 00:30:50,933 --> 00:30:54,144
-Soþia lui Jobling ne-a arãtat garajul.
-Nu era nimic în cutiile alea.
+SoÅ£ia lui Jobling ne-a arÄƒtat garajul.
+Nu era nimic Ã®n cutiile alea.
 
 307
 00:30:54,228 --> 00:30:57,773
-- Mã întorc ºi rãscolesc tot.
-- Ia-l ºi pe Finlay cu tine.
+- MÄƒ Ã®ntorc ÅŸi rÄƒscolesc tot.
+- Ia-l ÅŸi pe Finlay cu tine.
 
 308
 00:30:57,856 --> 00:31:00,192
-În regulã. La tine cum e situaþia ?
+ÃŽn regulÄƒ. La tine cum e situaÅ£ia ?
 
 309
 00:31:00,276 --> 00:31:02,486
-Am avut parte de puþinã acþiune.
+Am avut parte de puÅ£inÄƒ acÅ£iune.
 
 310
 00:31:02,570 --> 00:31:03,946
-- Eºti bine ?
+- EÅŸti bine ?
 - Da.
 
 311
 00:31:04,029 --> 00:31:07,157
-Da, acum suntem. Suntem acasã la Picard.
+Da, acum suntem. Suntem acasÄƒ la Picard.
 
 312
 00:31:07,241 --> 00:31:10,244
-Charlie ºi copiii dorm.
-Eu sunt în primul schimb de pazã.
+Charlie ÅŸi copiii dorm.
+Eu sunt Ã®n primul schimb de pazÄƒ.
 
 313
 00:31:10,327 --> 00:31:13,414
-De fapt, cred cã e timpul ca Picard
-sã mã înlocuiascã.
+De fapt, cred cÄƒ e timpul ca Picard
+sÄƒ mÄƒ Ã®nlocuiascÄƒ.
 
 314
 00:31:13,497 --> 00:31:16,292
-Odihneºte-te. Îl pun la curent pe Finlay.
+OdihneÅŸte-te. ÃŽl pun la curent pe Finlay.
 
 315
 00:31:17,209 --> 00:31:18,460
-M-ai sunat pe mine întâi ?
+M-ai sunat pe mine Ã®ntÃ¢i ?
 
 316
 00:31:19,878 --> 00:31:21,046
@@ -1438,28 +1438,28 @@ Da.
 
 317
 00:31:21,130 --> 00:31:23,340
-Am vrut doar sã, ºtii tu...
+Am vrut doar sÄƒ, ÅŸtii tu...
 
 318
 00:31:25,217 --> 00:31:26,969
-ªi mie mi-e dor sã vorbesc cu tine.
+Åži mie mi-e dor sÄƒ vorbesc cu tine.
 
 319
 00:31:28,512 --> 00:31:29,972
-Noapte bunã, Roscoe.
+Noapte bunÄƒ, Roscoe.
 
 320
 00:31:33,601 --> 00:31:34,810
-Totul e-n regulã ?
+Totul e-n regulÄƒ ?
 
 321
 00:31:36,437 --> 00:31:37,771
-Mai mult decât în regulã.
+Mai mult decÃ¢t Ã®n regulÄƒ.
 
 322
 00:31:37,855 --> 00:31:41,066
-Cred cã Reacher
-tocmai a desluºit toatã chestia.
+Cred cÄƒ Reacher
+tocmai a desluÅŸit toatÄƒ chestia.
 
 323
 00:31:50,075 --> 00:31:51,160
@@ -1467,17 +1467,17 @@ Reacher.
 
 324
 00:31:51,243 --> 00:31:54,788
-Vino acasã la Pete Jobling.
-Mai avem puþin ºi terminãm cu asta.
+Vino acasÄƒ la Pete Jobling.
+Mai avem puÅ£in ÅŸi terminÄƒm cu asta.
 
 325
 00:31:57,499 --> 00:31:58,917
-Nu-þi uita ideea.
+Nu-Å£i uita ideea.
 
 326
 00:32:03,881 --> 00:32:05,799
-- Avem o problemã.
-- Ce fel de problemã ?
+- Avem o problemÄƒ.
+- Ce fel de problemÄƒ ?
 
 327
 00:32:05,883 --> 00:32:06,884
@@ -1485,27 +1485,27 @@ Trei asasini.
 
 328
 00:32:06,967 --> 00:32:10,638
-Unul merge spre recepþia motelului,
-probabil ca sã afle în ce camerã stau.
+Unul merge spre recepÅ£ia motelului,
+probabil ca sÄƒ afle Ã®n ce camerÄƒ stau.
 
 329
 00:32:10,721 --> 00:32:12,765
-N-o sã dureze mult. Dar ceilalþi doi ?
+N-o sÄƒ dureze mult. Dar ceilalÅ£i doi ?
 
 330
 00:32:13,807 --> 00:32:17,519
-Stau în faþã ºi aratã înfricoºãtor.
-Cum m-au gãsit ?
+Stau Ã®n faÅ£Äƒ ÅŸi aratÄƒ Ã®nfricoÅŸÄƒtor.
+Cum m-au gÄƒsit ?
 
 331
 00:32:17,603 --> 00:32:20,773
 Teale nu te place,
-dar ºtie ce fel de om eºti.
+dar ÅŸtie ce fel de om eÅŸti.
 
 332
 00:32:20,856 --> 00:32:23,400
-Genul care priveºte în ochi
-pãrinþii unui poliþist mort.
+Genul care priveÅŸte Ã®n ochi
+pÄƒrinÅ£ii unui poliÅ£ist mort.
 
 333
 00:32:23,484 --> 00:32:25,319
@@ -1513,38 +1513,38 @@ M-am cazat sub un nume fals.
 
 334
 00:32:25,402 --> 00:32:28,072
-Spune-mi cã nu þi-ai parcat maºina
-chiar în faþã.
+Spune-mi cÄƒ nu Å£i-ai parcat maÅŸina
+chiar Ã®n faÅ£Äƒ.
 
 335
 00:32:32,743 --> 00:32:33,743
-Sigur cã nu.
+Sigur cÄƒ nu.
 
 336
 00:32:33,786 --> 00:32:35,204
-Bine. Ascultã cu atenþie.
+Bine. AscultÄƒ cu atenÅ£ie.
 
 337
 00:32:35,287 --> 00:32:38,082
-Acum urmeazã sã spui "O sã te ia" ?
+Acum urmeazÄƒ sÄƒ spui "O sÄƒ te ia" ?
 
 338
 00:32:38,165 --> 00:32:41,835
-Nu. Urmeazã sã spun cã o sã te ucidã
-dacã nu faci cum îþi spun.
+Nu. UrmeazÄƒ sÄƒ spun cÄƒ o sÄƒ te ucidÄƒ
+dacÄƒ nu faci cum Ã®Å£i spun.
 
 339
 00:32:41,919 --> 00:32:43,379
-Ai armã ?
+Ai armÄƒ ?
 
 340
 00:32:46,340 --> 00:32:49,885
-Da, cea de rezervã.
-Calibrul 32, cu þeavã scurtã.
+Da, cea de rezervÄƒ.
+Calibrul 32, cu Å£eavÄƒ scurtÄƒ.
 
 341
 00:32:49,968 --> 00:32:52,388
-Mai bine decât sã þipi dupã ajutor.
+Mai bine decÃ¢t sÄƒ Å£ipi dupÄƒ ajutor.
 Nu cu mult.
 
 342
@@ -1553,22 +1553,22 @@ Bine, spune-mi ce vezi.
 
 343
 00:32:57,309 --> 00:33:00,020
-Vãd cã sunt în bucluc.
-Nu pot ieºi pe uºa din faþã.
+VÄƒd cÄƒ sunt Ã®n bucluc.
+Nu pot ieÅŸi pe uÅŸa din faÅ£Äƒ.
 
 344
 00:33:00,104 --> 00:33:02,690
-Îþi faci propria ieºire.
-Porneºte televizorul ºi dã-l tare.
+ÃŽÅ£i faci propria ieÅŸire.
+PorneÅŸte televizorul ÅŸi dÄƒ-l tare.
 
 345
 00:33:04,817 --> 00:33:06,318
-Cavendish, aruncã arma !
+Cavendish, aruncÄƒ arma !
 
 346
 00:33:07,653 --> 00:33:10,989
-- Cât de aproape eºti de ultima încãpere ?
-- La distanþã de o camerã.
+- CÃ¢t de aproape eÅŸti de ultima Ã®ncÄƒpere ?
+- La distanÅ£Äƒ de o camerÄƒ.
 
 347
 00:33:11,073 --> 00:33:13,784
@@ -1577,17 +1577,17 @@ Bun. Zi-mi cum e construit motelul.
 348
 00:33:13,867 --> 00:33:18,414
 Ieftin, cu un singur etaj. Probabil final
-de anii '60, început de '70.
+de anii '60, Ã®nceput de '70.
 
 349
 00:33:18,497 --> 00:33:21,667
-Scânduri ieftine.
-Spaþiere de 60 de cm între stâlpi.
+ScÃ¢nduri ieftine.
+SpaÅ£iere de 60 de cm Ã®ntre stÃ¢lpi.
 
 350
 00:33:21,750 --> 00:33:24,086
-- Ai un cuþit de buzunar ?
-- Sunt cumva cercetaº ?
+- Ai un cuÅ£it de buzunar ?
+- Sunt cumva cercetaÅŸ ?
 
 351
 00:33:24,169 --> 00:33:27,172
@@ -1599,8 +1599,8 @@ E de partea legii.
 
 353
 00:33:29,007 --> 00:33:31,385
-Escrocul ãsta voia
-sã punã stãpânire pe Colby.
+Escrocul Äƒsta voia
+sÄƒ punÄƒ stÄƒpÃ¢nire pe Colby.
 
 354
 00:33:31,468 --> 00:33:34,471
@@ -1609,12 +1609,12 @@ sã punã stãpânire pe Colby.
 
 355
 00:33:38,475 --> 00:33:39,935
-Trebuie sã mã miºc mai repede.
+Trebuie sÄƒ mÄƒ miÅŸc mai repede.
 
 356
 00:33:40,018 --> 00:33:42,896
-- Ai vãzut reclama la sucul Kool-Aid ?
-- Cred cã glumeºti.
+- Ai vÄƒzut reclama la sucul Kool-Aid ?
+- Cred cÄƒ glumeÅŸti.
 
 357
 00:33:45,524 --> 00:33:46,817
@@ -1622,97 +1622,97 @@ Mersi.
 
 358
 00:33:46,900 --> 00:33:48,610
-Poftiþi, dle doctor.
+PoftiÅ£i, dle doctor.
 
 359
 00:33:48,694 --> 00:33:49,987
-În timp ce îi leg.
+ÃŽn timp ce Ã®i leg.
 
 360
 00:33:50,070 --> 00:33:54,074
-Da. Sper sã facã o mutare, mai ales asta.
+Da. Sper sÄƒ facÄƒ o mutare, mai ales asta.
 
 361
 00:33:57,035 --> 00:33:59,288
 - Ce naiba ?
-- Sunt poliþist. Sunaþi la 911.
+- Sunt poliÅ£ist. SunaÅ£i la 911.
 
 362
 00:34:10,591 --> 00:34:13,510
-Nu uitaþi, bãieþi,
-încã nu sunt la puºcãrie.
+Nu uitaÅ£i, bÄƒieÅ£i,
+Ã®ncÄƒ nu sunt la puÅŸcÄƒrie.
 
 363
 00:34:13,594 --> 00:34:16,513
-Taci. Sã faci ce spui
-înseamnã sã faci o mutare.
+Taci. SÄƒ faci ce spui
+Ã®nseamnÄƒ sÄƒ faci o mutare.
 
 364
 00:34:38,410 --> 00:34:40,204
-A tras în cauciucuri ! Fugiþi !
+A tras Ã®n cauciucuri ! FugiÅ£i !
 
 365
 00:34:47,127 --> 00:34:48,462
-Mulþumesc pentru ajutor.
+MulÅ£umesc pentru ajutor.
 
 366
 00:34:48,545 --> 00:34:51,757
-Oricând, Finlay.
-Ne vedem acasã la Jobling.
+OricÃ¢nd, Finlay.
+Ne vedem acasÄƒ la Jobling.
 
 367
 00:34:51,840 --> 00:34:53,509
-Ajung acolo pânã dimineaþã.
+Ajung acolo pÃ¢nÄƒ dimineaÅ£Äƒ.
 
 368
 00:35:00,724 --> 00:35:01,809
-Înþeleg.
+ÃŽnÅ£eleg.
 
 369
 00:35:03,143 --> 00:35:04,269
-Mulþumesc, ºefule.
+MulÅ£umesc, ÅŸefule.
 
 370
 00:35:05,729 --> 00:35:09,107
-Din câte îºi dau seama,
-nu era nimeni înãuntru când a ars.
+Din cÃ¢te Ã®ÅŸi dau seama,
+nu era nimeni Ã®nÄƒuntru cÃ¢nd a ars.
 
 371
 00:35:09,191 --> 00:35:11,568
-Vecinul zice cã Judy a plecat
-din oraº acum câteva zile.
+Vecinul zice cÄƒ Judy a plecat
+din oraÅŸ acum cÃ¢teva zile.
 
 372
 00:35:11,652 --> 00:35:13,362
-ªeful crede cã ar putea fi incendiere.
+Åžeful crede cÄƒ ar putea fi incendiere.
 
 373
 00:35:13,445 --> 00:35:16,573
-Probabil a început pe la ora
-când m-au atacat tipii ãia.
+Probabil a Ã®nceput pe la ora
+cÃ¢nd m-au atacat tipii Äƒia.
 
 374
 00:35:16,657 --> 00:35:18,033
-Eliminã punctele slabe.
+EliminÄƒ punctele slabe.
 
 375
 00:35:18,116 --> 00:35:20,410
 Orice lucru incriminator
-dinãuntru a dispãrut.
+dinÄƒuntru a dispÄƒrut.
 
 376
 00:35:20,494 --> 00:35:24,164
-Sunt speriaþi dupã ce s-a întâmplat
-acasã la Hubble noaptea trecutã.
+Sunt speriaÅ£i dupÄƒ ce s-a Ã®ntÃ¢mplat
+acasÄƒ la Hubble noaptea trecutÄƒ.
 
 377
 00:35:24,248 --> 00:35:25,415
-Ce s-a întâmplat ?
+Ce s-a Ã®ntÃ¢mplat ?
 
 378
 00:35:25,499 --> 00:35:28,001
 I-am ucis pe Dawson Kliner
-ºi alþi patru tipi.
+ÅŸi alÅ£i patru tipi.
 
 379
 00:35:29,586 --> 00:35:32,089
@@ -1720,8 +1720,8 @@ Bine. Deci, acum nu avem nimic.
 
 380
 00:35:32,172 --> 00:35:35,551
-Singura parte bunã e cã dna Jobling
-nu era aici când au fãcut-o.
+Singura parte bunÄƒ e cÄƒ dna Jobling
+nu era aici cÃ¢nd au fÄƒcut-o.
 
 381
 00:35:36,093 --> 00:35:37,678
@@ -1733,8 +1733,8 @@ Judy n-a luat numele lui Pete.
 
 383
 00:35:41,932 --> 00:35:45,769
-Uitã-te cum a scris Joe.
-A pus apostroful dupã "S".
+UitÄƒ-te cum a scris Joe.
+A pus apostroful dupÄƒ "S".
 
 384
 00:35:45,853 --> 00:35:47,271
@@ -1743,39 +1743,39 @@ E la plural.
 385
 00:35:47,354 --> 00:35:50,232
 Ce era important pentru Joe se afla
-într-o casã cu doi Jobling.
+Ã®ntr-o casÄƒ cu doi Jobling.
 
 386
 00:35:50,315 --> 00:35:51,483
-Casa pãrinþilor lui.
+Casa pÄƒrinÅ£ilor lui.
 
 387
 00:35:51,567 --> 00:35:54,736
-- Îþi tot spun...
-- ªtiu, detaliile conteazã. Sã mergem !
+- ÃŽÅ£i tot spun...
+- Åžtiu, detaliile conteazÄƒ. SÄƒ mergem !
 
 388
 00:35:56,697 --> 00:35:59,950
-Dacã credeþi cã Pete a ascuns ceva aici,
-puteþi sã vã uitaþi.
+DacÄƒ credeÅ£i cÄƒ Pete a ascuns ceva aici,
+puteÅ£i sÄƒ vÄƒ uitaÅ£i.
 
 389
 00:36:00,033 --> 00:36:03,996
-- Dar puneþi la loc aºa cum aþi gãsit.
-- Aºa o sã facem, dnã. Mulþumim.
+- Dar puneÅ£i la loc aÅŸa cum aÅ£i gÄƒsit.
+- AÅŸa o sÄƒ facem, dnÄƒ. MulÅ£umim.
 
 390
 00:36:07,416 --> 00:36:10,919
-ªtiaþi cã bãiatul meu e mort
-ultima datã când aþi fost aici ?
+ÅžtiaÅ£i cÄƒ bÄƒiatul meu e mort
+ultima datÄƒ cÃ¢nd aÅ£i fost aici ?
 
 391
 00:36:11,003 --> 00:36:12,129
-Da, doamnã.
+Da, doamnÄƒ.
 
 392
 00:36:13,130 --> 00:36:14,214
-ªtiam.
+Åžtiam.
 
 393
 00:36:15,257 --> 00:36:16,800
@@ -1783,71 +1783,71 @@ De ce nu ne-ai spus ?
 
 394
 00:36:18,719 --> 00:36:20,387
-Pãreþi oameni de treabã.
+PÄƒreÅ£i oameni de treabÄƒ.
 
 395
 00:36:21,763 --> 00:36:23,181
-Nu m-a lãsat inima.
+Nu m-a lÄƒsat inima.
 
 396
 00:36:33,609 --> 00:36:36,737
-Cum sã gãsim ceva în harababura asta ?
+Cum sÄƒ gÄƒsim ceva Ã®n harababura asta ?
 
 397
 00:36:36,820 --> 00:36:39,823
-Asta a ºi urmãrit Jobling
-când a ascuns aici.
+Asta a ÅŸi urmÄƒrit Jobling
+cÃ¢nd a ascuns aici.
 
 398
 00:36:39,907 --> 00:36:41,283
-Sã se amestece cu dezordinea,
+SÄƒ se amestece cu dezordinea,
 
 399
 00:36:41,366 --> 00:36:43,827
-ca sã nu vezi pãdurea din cauza copacilor.
+ca sÄƒ nu vezi pÄƒdurea din cauza copacilor.
 
 400
 00:36:45,621 --> 00:36:47,831
-Aºa îmi ascundeam ºi eu artificiile.
+AÅŸa Ã®mi ascundeam ÅŸi eu artificiile.
 
 401
 00:36:47,915 --> 00:36:50,167
-Pãrinþii nu ºtiu niciodatã ce fac copiii.
+PÄƒrinÅ£ii nu ÅŸtiu niciodatÄƒ ce fac copiii.
 
 402
 00:36:51,543 --> 00:36:53,712
-ªtim exact ce cãutãm.
+Åžtim exact ce cÄƒutÄƒm.
 
 403
 00:36:53,795 --> 00:36:56,757
-Cutii ca cea pe care eu ºi Roscoe
-am vãzut-o în garajul lui.
+Cutii ca cea pe care eu ÅŸi Roscoe
+am vÄƒzut-o Ã®n garajul lui.
 
 404
 00:37:03,305 --> 00:37:04,348
-Aºa ca astea ?
+AÅŸa ca astea ?
 
 405
 00:37:21,073 --> 00:37:24,952
-Sunã-l pe Picard. Spune-i sã ne întâlnim
-la ferma unde am lãsat Jaguarul.
+SunÄƒ-l pe Picard. Spune-i sÄƒ ne Ã®ntÃ¢lnim
+la ferma unde am lÄƒsat Jaguarul.
 
 406
 00:37:25,035 --> 00:37:29,331
-Avem tot ce-i trebuie sã distrugem
-Kliner Foundation ºi pe Teale.
+Avem tot ce-i trebuie sÄƒ distrugem
+Kliner Foundation ÅŸi pe Teale.
 
 407
 00:37:29,414 --> 00:37:31,959
-Încarc ãºtia în Bentley ºi ne vedem acolo.
+ÃŽncarc ÄƒÅŸtia Ã®n Bentley ÅŸi ne vedem acolo.
 
 408
 00:37:32,042 --> 00:37:33,669
-I-am prins, nu-i aºa ?
+I-am prins, nu-i aÅŸa ?
 
 409
 00:37:34,503 --> 00:37:35,712
-Ba bine cã nu.
+Ba bine cÄƒ nu.
 
 410
 00:37:42,594 --> 00:37:44,429
@@ -1859,7 +1859,7 @@ Neagley.
 
 412
 00:37:47,933 --> 00:37:51,436
-Am gãsit ceva despre ucigaºul
+Am gÄƒsit ceva despre ucigaÅŸul
 acelui agent de mediu, Wilks.
 
 413
@@ -1873,13 +1873,13 @@ unui agent FBI pe nume Nittmo.
 
 415
 00:37:54,773 --> 00:37:57,484
-- Tipul care l-a închis fãrã sã se uite ?
+- Tipul care l-a Ã®nchis fÄƒrÄƒ sÄƒ se uite ?
 - Da.
 
 416
 00:37:57,567 --> 00:37:59,820
-A numit-o "spargere cu complicaþii"
-ºi a încheiat.
+A numit-o "spargere cu complicaÅ£ii"
+ÅŸi a Ã®ncheiat.
 
 417
 00:37:59,903 --> 00:38:01,363
@@ -1887,52 +1887,52 @@ L-am cercetat pe Nittmo.
 
 418
 00:38:01,446 --> 00:38:05,784
-- Avea casã scumpã, maºinã costisitoare...
-- Ca Morrison ºi Jobling.
+- Avea casÄƒ scumpÄƒ, maÅŸinÄƒ costisitoare...
+- Ca Morrison ÅŸi Jobling.
 
 419
 00:38:05,867 --> 00:38:07,953
-Trãia peste mijloacele normale.
+TrÄƒia peste mijloacele normale.
 
 420
 00:38:08,036 --> 00:38:10,247
-Am o copie a legitimaþiei lui.
+Am o copie a legitimaÅ£iei lui.
 
 421
 00:38:10,330 --> 00:38:14,167
-Înãlþime 1,92 m, 100 kg,
-blond cu ochi albaºtri...
+ÃŽnÄƒlÅ£ime 1,92 m, 100 kg,
+blond cu ochi albaÅŸtri...
 
 422
 00:38:14,251 --> 00:38:16,586
-Se-nþelege de ce i se zicea "Vikingul".
+Se-nÅ£elege de ce i se zicea "Vikingul".
 
 423
 00:38:17,337 --> 00:38:20,424
-Porecla asasinului angajat sã-l ucidã
+Porecla asasinului angajat sÄƒ-l ucidÄƒ
 pe agentul de mediu.
 
 424
 00:38:20,507 --> 00:38:21,842
-Aº spune cã facem progrese,
+AÅŸ spune cÄƒ facem progrese,
 
 425
 00:38:21,925 --> 00:38:24,428
-dar continui sã vorbeºti
+dar continui sÄƒ vorbeÅŸti
 despre Nittmo la trecut.
 
 426
 00:38:24,511 --> 00:38:26,888
-Pentru cã a murit de cancer acum trei ani.
+Pentru cÄƒ a murit de cancer acum trei ani.
 
 427
 00:38:26,972 --> 00:38:30,517
-Dar vechiul lui partener încã lucreazã
-la FBI. Îl putem interoga pe el.
+Dar vechiul lui partener Ã®ncÄƒ lucreazÄƒ
+la FBI. ÃŽl putem interoga pe el.
 
 428
 00:38:30,600 --> 00:38:33,270
-Are sediul în Atlanta. Îl cheamã...
+Are sediul Ã®n Atlanta. ÃŽl cheamÄƒ...
 
 429
 00:38:34,563 --> 00:38:35,563
@@ -1940,12 +1940,12 @@ Picard.
 
 430
 00:38:37,065 --> 00:38:39,943
-- De unde naiba ai ºtiut ?
+- De unde naiba ai ÅŸtiut ?
 - Am ghicit.
 
 431
 00:38:42,863 --> 00:38:44,072
-Trebuie sã închid, Neagley.
+Trebuie sÄƒ Ã®nchid, Neagley.
 
 432
 00:40:31,513 --> 00:40:33,515
